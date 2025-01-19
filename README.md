@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m @Aishwaryaa-Anand</h1><br>
+<h1>👋 Hi, I’m Aishwarya Anand</h1><br>
 - 👀 I’m interested in coding, designing and sustainable tech solutions<br>
 - 🌱 I’m currently learning React Development<br>
 - 💞️ I’m looking to collaborate on open-source projects, hackathons, and innovative web development ideas.<br>

@@ -1,8 +1,7 @@
 <h1>👋 Hi, I’m Aishwarya Anand</h1><br>
 - 👀 I’m interested in coding, designing and sustainable tech solutions<br>
-- 🌱 I’m currently learning React Development<br>
+- 🌱 I’m currently exploring MERN<br>
 - 💞️ I’m looking to collaborate on open-source projects, hackathons, and innovative web development ideas.<br>
-- 😄 Pronouns: She/Her<br>
 - ⚡ Fun fact: I once debugged a code issue at 2 AM, only to realize it was a missing semicolon!<br>
 - 🌟 Motto: "Learning by doing and growing through collaboration!"<br>
 - 👋 Let’s connect and build something amazing!<br>

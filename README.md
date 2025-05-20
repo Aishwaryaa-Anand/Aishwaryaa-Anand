@@ -2,10 +2,6 @@
 
 <h3>I'm Aishwarya Anand</h3> A passionate computer science engineering student with a love for coding, design, and innovative technology! Currently diving into the MERN stack + AI , I enjoy building web applications and exploring new tech trends.
 
-## About Me
-
-I'm a computer science engineering student excited about the world of technology. I thrive on challenges and enjoy learning new skills. Currently, I'm focused on expanding my knowledge with the MERN stack + AI and I am eager to connect with like-minded individuals.
-
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,js,html,css,nodejs,aws,bootstrap,dynamodb,flask,git,github,java,jquery,mongodb,mysql,netlify,react,tailwind,vscode&perline=8)](https://skillicons.dev)

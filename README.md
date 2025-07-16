@@ -7,11 +7,9 @@
 [![My Skills](https://skillicons.dev/icons?i=c,py,js,html,css,nodejs,aws,bootstrap,dynamodb,flask,git,github,java,jquery,mongodb,mysql,netlify,react,tailwind,vscode&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
-📊 **Public Repositories**: 9  
-👥 **Followers**: 0  
-🔄 **Following**: 0  
-![Aishwaryaa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aishwaryaa-Anand&show_icons=true&hide_title=true&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwaryaa-Anand&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Aishwaryaa-Anand&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Aishwaryaa-Anand's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwaryaa-Anand&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Aishwaryaa-Anand's GitHub Stats" /> 
+<img src="https://streak-stats.demolab.com?user=Aishwaryaa-Anand&theme=dark&hide_border=true" alt="Aishwaryaa-Anand's GitHub Stats" />
 
 ## Connect with Me
 
